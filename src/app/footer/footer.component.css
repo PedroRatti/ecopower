@@ -1,0 +1,40 @@
+/* Estilo para o header e footer */
+.bg-dark {
+    background-color: #343a40; /* cor de fundo escura */
+}
+
+.text-white {
+    color: #ffffff; /* texto branco */
+}
+
+.text-primary {
+    color: #FF8800; /* texto laranja */
+}
+
+.text-orange {
+    color: #FF8800; /* texto laranja */
+}
+
+.navbar-brand img.logo-sm {
+    max-width: 150px; /* ajuste o tamanho do logo conforme necessário */
+}
+
+.credits a {
+    color: #FF8800; /* links em laranja */
+}
+
+.credits a:hover {
+    color: #ffcc00; /* cor laranja claro ao passar o mouse */
+}
+
+.container .row span {
+    color: #FF8800; /* texto em laranja */
+}
+
+.container .row h5 {
+    color: #FF8800; /* texto em laranja */
+}
+
+.container {
+    background-color: #212529;
+}  
