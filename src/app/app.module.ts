@@ -10,6 +10,8 @@ import { ServicesComponent } from './services/services.component';
 import { ProductsComponent } from './products/products.component';
 import { GraphicsComponent } from './graphics/graphics.component';
 import { FooterComponent } from './footer/footer.component';
+import { EndComponent } from './end/end.component';
+import { ReasonsComponent } from './reasons/reasons.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +23,8 @@ import { FooterComponent } from './footer/footer.component';
     ProductsComponent,
     GraphicsComponent,
     FooterComponent,
+    EndComponent,
+    ReasonsComponent,
   ],
   imports: [
     BrowserModule,
